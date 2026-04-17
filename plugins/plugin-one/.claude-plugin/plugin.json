@@ -1,0 +1,11 @@
+{
+  "name": "plugin-one",
+  "version": "1.0.0",
+  "description": "REPLACE ME — one sentence about what this plugin does",
+  "author": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "keywords": ["replace"],
+  "license": "MIT"
+}

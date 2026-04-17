@@ -1,0 +1,40 @@
+{
+  "name": "REPLACE-ME-marketplace-name",
+  "owner": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "metadata": {
+    "description": "Replace with a one-sentence description of your marketplace",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "plugin-one",
+      "source": "./plugins/plugin-one",
+      "description": "REPLACE ME — one sentence about plugin one",
+      "version": "1.0.0",
+      "category": "REPLACE",
+      "keywords": ["replace"],
+      "author": { "name": "Your Name" }
+    },
+    {
+      "name": "plugin-two",
+      "source": "./plugins/plugin-two",
+      "description": "REPLACE ME — one sentence about plugin two",
+      "version": "1.0.0",
+      "category": "REPLACE",
+      "keywords": ["replace"],
+      "author": { "name": "Your Name" }
+    },
+    {
+      "name": "plugin-three",
+      "source": "./plugins/plugin-three",
+      "description": "REPLACE ME — one sentence about plugin three",
+      "version": "1.0.0",
+      "category": "REPLACE",
+      "keywords": ["replace"],
+      "author": { "name": "Your Name" }
+    }
+  ]
+}
