@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "nestjs-prisma-docs": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/context7-mcp@latest"],
+      "description": "Context7 MCP server for NestJS and Prisma documentation lookup — provides up-to-date API references, decorators, and ORM patterns"
+    }
+  }
+}

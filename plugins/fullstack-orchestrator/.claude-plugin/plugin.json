@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-orchestrator",
+  "version": "1.0.0",
+  "description": "Full-stack SDLC orchestrator — release management, changelog generation, tech-lead pipeline coordinating backend and frontend agents",
+  "author": {
+    "name": "Vitali Kliauzo",
+    "email": "vitalykliauzo@coherentsolutions.com"
+  },
+  "keywords": ["release", "changelog", "sdlc", "architect", "documentation", "pipeline"],
+  "license": "MIT"
+}

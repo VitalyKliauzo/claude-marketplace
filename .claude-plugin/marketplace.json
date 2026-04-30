@@ -1,40 +1,52 @@
 {
-  "name": "REPLACE-ME-marketplace-name",
+  "name": "nestjs-react-devkit",
   "owner": {
-    "name": "Your Name",
-    "email": "you@example.com"
+    "name": "Vitali Kliauzo",
+    "email": "vitalykliauzo@coherentsolutions.com"
   },
   "metadata": {
-    "description": "Replace with a one-sentence description of your marketplace",
-    "version": "1.0.0"
+    "description": "Full-stack TypeScript development toolkit for NestJS + React + Prisma projects",
+    "version": "1.0.2"
   },
   "plugins": [
     {
-      "name": "plugin-one",
-      "source": "./plugins/plugin-one",
-      "description": "REPLACE ME — one sentence about plugin one",
-      "version": "1.0.0",
-      "category": "REPLACE",
-      "keywords": ["replace"],
-      "author": { "name": "Your Name" }
+      "name": "nestjs-dev-kit",
+      "source": "./plugins/nestjs-dev-kit",
+      "description": "NestJS backend development toolkit — API scaffolding, Prisma safety hooks, design/test/review skills, and specialized backend agents",
+      "version": "2.1.0",
+      "category": "backend",
+      "keywords": ["nestjs", "prisma", "typescript", "api", "backend", "testing"],
+      "author": { "name": "Vitali Kliauzo" }
     },
     {
-      "name": "plugin-two",
-      "source": "./plugins/plugin-two",
-      "description": "REPLACE ME — one sentence about plugin two",
-      "version": "1.0.0",
-      "category": "REPLACE",
-      "keywords": ["replace"],
-      "author": { "name": "Your Name" }
+      "name": "react-quality-suite",
+      "source": "./plugins/react-quality-suite",
+      "description": "React frontend quality toolkit — accessibility audits, performance reviews, component testing, and security checks",
+      "version": "1.2.1",
+      "category": "frontend",
+      "keywords": ["react", "accessibility", "wcag", "testing", "vitest", "performance"],
+      "author": { "name": "Vitali Kliauzo" }
     },
     {
-      "name": "plugin-three",
-      "source": "./plugins/plugin-three",
-      "description": "REPLACE ME — one sentence about plugin three",
+      "name": "fullstack-orchestrator",
+      "source": "./plugins/fullstack-orchestrator",
+      "description": "Full-stack SDLC orchestrator — release management, changelog generation, tech-lead pipeline coordinating backend and frontend agents",
       "version": "1.0.0",
-      "category": "REPLACE",
-      "keywords": ["replace"],
-      "author": { "name": "Your Name" }
+      "category": "orchestration",
+      "keywords": ["release", "changelog", "sdlc", "architect", "documentation", "pipeline"],
+      "author": { "name": "Vitali Kliauzo" }
+    },
+    {
+      "name": "stagehand",
+      "source": {
+        "source": "github",
+        "repo": "browserbase/skills"
+      },
+      "description": "Browser automation skill for Claude Code using Stagehand. Automate web interactions, extract data, and navigate websites using natural language.",
+      "version": "1.0.1",
+      "category": "testing",
+      "keywords": ["browser", "automation", "testing", "stagehand", "web"],
+      "author": { "name": "Browserbase" }
     }
   ]
 }

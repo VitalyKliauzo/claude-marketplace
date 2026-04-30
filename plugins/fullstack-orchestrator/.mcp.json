@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "fullstack-docs": {
+      "command": "npx",
+      "args": ["-y", "@anthropic-ai/context7-mcp@latest"],
+      "description": "Context7 MCP server for looking up documentation of NestJS, React, Prisma, and related libraries used in the full-stack pipeline"
+    }
+  }
+}

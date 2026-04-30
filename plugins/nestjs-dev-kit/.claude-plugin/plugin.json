@@ -1,0 +1,11 @@
+{
+  "name": "nestjs-dev-kit",
+  "version": "2.1.0",
+  "description": "NestJS backend development toolkit — API scaffolding, Prisma safety hooks, design/test/review skills, and specialized backend agents",
+  "author": {
+    "name": "Vitali Kliauzo",
+    "email": "vitalykliauzo@coherentsolutions.com"
+  },
+  "keywords": ["nestjs", "prisma", "typescript", "api", "backend", "testing"],
+  "license": "MIT"
+}

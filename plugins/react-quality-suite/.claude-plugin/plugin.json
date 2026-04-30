@@ -1,0 +1,11 @@
+{
+  "name": "react-quality-suite",
+  "version": "1.2.1",
+  "description": "React frontend quality toolkit — accessibility audits, performance reviews, component testing, and security checks",
+  "author": {
+    "name": "Vitali Kliauzo",
+    "email": "vitalykliauzo@coherentsolutions.com"
+  },
+  "keywords": ["react", "accessibility", "wcag", "testing", "vitest", "performance"],
+  "license": "MIT"
+}
